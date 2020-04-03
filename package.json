@@ -1,0 +1,20 @@
+{
+  "name": "gltf-ball",
+  "version": "0.0.1",
+  "description": "Rolling ball",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Maija Kekkonen",
+  "license": "CC-BY-4.0",
+  "dependencies": {
+    "three": "^0.115.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.42.1"
+  }
+}
